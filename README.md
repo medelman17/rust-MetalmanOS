@@ -1,0 +1,2 @@
+# MetalmanOS 
+Like Windows 11 in the sense that its going to suck for a few years until we get it right but with a fraction of the bugs on account of a far-less robust feature set and/or ambitious road map--written in Rust. 
